@@ -1,6 +1,6 @@
 # Description
 * Formulario de contacto.
 # Built with
-*HTML5
-*CCS3
-*JavaScript
+* HTML5
+* CCS3
+* JavaScript
