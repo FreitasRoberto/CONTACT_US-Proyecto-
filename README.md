@@ -1,5 +1,5 @@
 # Description
- Formulario de contacto.
+ Formulario de Contacto.
 # Built with
 * HTML5
 * CCS3
